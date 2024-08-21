@@ -33,6 +33,8 @@ Used console.log inside the JavaScript code to see what the data looks like at e
 Referred to the Plotly.js documentation when building the plots.
 Free static page (GitHub Pages):
 
+https://gunelq.github.io/belly-button-challenge/
+
 
 References:
 Hulcr, J. et al. (2012). A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
